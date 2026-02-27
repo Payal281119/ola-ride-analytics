@@ -112,7 +112,7 @@ To create an interactive analytics solution that:
 ### 🔹 Overall Performance Dashboard
 Shows key KPIs including total bookings, booking value, success rate, and cancellation rate.
 
-![Overall Performance].(https://github.com/Payal281119/ola-ride-analytics/blob/main/OLA%201.png)
+![Overall Performance](https://github.com/Payal281119/ola-ride-analytics/blob/main/OLA%201.png)
 
 ---
 
@@ -126,7 +126,7 @@ Visualizes revenue contribution and usage trends across vehicle categories.
 ### 🔹 Revenue Analysis
 Displays revenue distribution by payment methods and booking value insights.
 
-![Revenue Analysis].(https://github.com/Payal281119/ola-ride-analytics/blob/main/OLA%203.png)
+![Revenue Analysis](https://github.com/Payal281119/ola-ride-analytics/blob/main/OLA%203.png)
 
 ---
 
